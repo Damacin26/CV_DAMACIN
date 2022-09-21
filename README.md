@@ -1,4 +1,4 @@
-# mi_card
+# CURRICULUM VITAE
 
 A new Flutter project.
 
